@@ -52,5 +52,15 @@ li a:enabled{
     font-size: large;
     padding-right:90px;
     text-decoration: none;
-
+}
+.content{
+    alignment: center;
+    text-align: left;
+    margin: auto;
+    margin-top: 5px;
+    width: 50%;
+    border: 3px lightslategray;
+    height: 100%;
+    bottom:auto;
+    font-size: medium;
 }
