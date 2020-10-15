@@ -63,3 +63,6 @@ li a:enabled{
     bottom:auto;
     font-size: medium;
 }
+figure{
+    font-family: Cambria;
+}
